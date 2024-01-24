@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Mingwei Deng
-I am a PhD student supervised by [Dominik Baumann](https://baumanndominik.github.io/) and co-supervised by [Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki). My research focuses on joining reinforcement learning with causal inference to end up with agents that can learn both policy and structural information about the environment through trial and error. My current work is on applying the theory of transportability in causal inference to RL agents that suffer from negative transfer, i.e., performance is worse in the target domain than in the source domain.  
+I am a PhD student supervised by [Dominik Baumann](https://baumanndominik.github.io/) and co-supervised by [Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki). My research focuses on joining reinforcement learning with causal inference to end up with agents that can learn both policy and structural information about the environment through trial and error. My current work is on applying the theory of transportability in causal inference to RL agents that suffer from negative transfer, i.e., performance is worse in the target domain than in the source domain. [Causal World](https://sites.google.com/view/causal-world/home) is the main benchmark I am working on now.
+
+I received my MSc in computer science from Uppsala University, Sweden.
