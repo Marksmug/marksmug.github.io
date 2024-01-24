@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mingwei Deng"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "PhD student in ML at Aalto University <br> <br> <br> Focusing on Reinforcement Learning and Causal Inference"
   location         : "Espoo, Finland"
   employer         :
